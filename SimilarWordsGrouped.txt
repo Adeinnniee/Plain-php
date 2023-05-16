@@ -1,0 +1,45 @@
+The number of times each word occurs are:
+
+WORD - COUNT
+Laravel - 5
+is - 3
+an - 3
+easy-to-use - 2
+web - 7
+framework - 4
+that - 2
+you - 7
+and - 5
+applications - 2
+at - 2
+scale - 2
+ - 7
+a - 9
+app - 2
+or - 2
+website - 2
+to - 6
+make - 2
+as - 4
+are - 3
+of - 3
+the - 2
+build - 2
+something - 2
+such - 3
+can - 2
+on - 2
+no-code - 2
+it - 3
+for - 3
+in - 2
+features - 2
+Artisan - 2
+authentication - 2
+authorization - 2
+
+
+
+Grouping the similar words:
+
+Laravel Laravel Laravel Laravel Laravel is is is an an an easy-to-use easy-to-use web web web web web web web framework framework framework framework that that will help you you you you you you you create extensible PHP-based websites and and and and and applications applications at at scale scale        Before creating a a a a a a a a a app app or or website website need to to to to to to make make foundational decision as as as as what technology are are are going use This one of of of the the trickiest parts development process To build build something something simple such such such online store portfolio can can rely on on no-code no-code creators If looking more advanced solution might not be enough Instead should choose start writing code it it it good choice open-source for for for building modern Benefit Laravel’s first stable release took place in in 2011 but didn’t get much attention When 3 came out 2012 started gain some hype thanks its new features features Artisan Artisan CLI Here few notable popular PHP among developers BUILT-IN AUTHENTICATION comes with out-of-the-box solutions authentication authentication authorization authorization With couple commands set up reliable robust your  
